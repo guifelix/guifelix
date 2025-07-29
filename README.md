@@ -13,6 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifelix&layout=compact)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/felixmaciel?theme=light&font=Noto%20Sans%20Mono)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/felixmaciel?theme=light&font=Noto%20Sans%20Mono) -->
 
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=guifelix&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)
