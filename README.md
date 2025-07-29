@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Felix</h1>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&repeat=false&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Software+Engineering+Manager+and;Tech+Leader+in+SaaS+Solutions;Building+Teams+that+Drive+Business+Impact.)](https://git.io/typing-svg)
 
