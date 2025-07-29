@@ -1,5 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Software+Engineering+Manager+and;Tech+Leader+in+SaaS+Solutions;Building+Teams+that+Drive+Business+Impact.)](https://git.io/typing-svg)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=guifelix)
+
+
 
 ![My Stats](https://github-profile-trophy.vercel.app/?username=guifelix&theme=light)
 
