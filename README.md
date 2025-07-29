@@ -10,6 +10,8 @@
 
 ![My Stats](https://github-profile-trophy.vercel.app/?username=guifelix&theme=light)
 
+![My Trophies](metrics.plugin.achievements.svg)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifelix&layout=compact)
 
