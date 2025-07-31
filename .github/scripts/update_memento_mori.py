@@ -25,15 +25,7 @@ for year_index in range(life_expectancy_years):
     dec_31 = datetime.date(year, 12, 31)
 
     # Generate week start dates for the year
-    week_starts = []
-    week_start = jan_1
-    while week_start <= dec_31:
-        week_starts.append(week_start)
-        week_start += datetime.timedelta(weeks=1)
-
-    # Pad to 52 weeks if needed
-    while len(week_starts) < weeks_per_year:
-        week_starts.append(dec_31)
+    week_starts = [jan_1 + datetime.timedelta(weeks=i) for i in range(weeks_per_year)]
 
     line_progress = ""
     lived_weeks = 0
