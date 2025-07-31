@@ -19,6 +19,7 @@
 ## 🕯️ Memento Mori Countdown
 
 <!-- MM_START -->
+```
 1990 ( 1)  SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.......
 1991 ( 2)  .....................................................
 1992 ( 3)  .....................................................
@@ -112,5 +113,5 @@
 
 OK, but incomplete, skipped, or risky tests!
 Tests: 4680, Assertions: 4680, Skipped: 2840.
-
+```
 <!-- MM_END -->
