@@ -2,17 +2,20 @@ name: Update Memento Mori README
 
 on:
   schedule:
-    # Runs every day at midnight UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub UI
+    - cron: '0 0 * * *'  # every day at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # explicitly grant write permission to the repo contents
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # full git history to allow push
 
       - name: Set up Python 3.x
         uses: actions/setup-python@v4
@@ -33,7 +36,4 @@ jobs:
           git diff --cached --quiet || git commit -m "Update Memento Mori countdown"
           git push
         env:
-          # Needed to push if your repo is private or requires auth
-          # For public repos, this usually works without extra config
-          # GITHUB_TOKEN is provided automatically by Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
