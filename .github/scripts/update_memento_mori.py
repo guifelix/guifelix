@@ -2,7 +2,7 @@ import datetime
 
 # === CONFIGURATION ===
 birth_date = datetime.date(1990, 11, 18)
-life_expectancy_years = 90
+life_expectancy_years = 91
 char_lived = "."
 char_skipped = "S"
 
@@ -14,7 +14,7 @@ grid = ""
 
 for year_index in range(life_expectancy_years):
     year = start_year + year_index
-    line = f"{year} ({year_index + 1:2d})  "
+    line = f"{year} ({year_index:02d})  "
 
     jan_1 = datetime.date(year, 1, 1)
     dec_31 = datetime.date(year, 12, 31)
@@ -50,7 +50,7 @@ summary = (
     f"Tests: {total_weeks}, Assertions: {total_weeks}, Skipped: {weeks_skipped}.\n"
 )
 
-# Wrap the entire block in triple backticks for markdown formatting
+# Wrap everything in triple backticks for Markdown code block
 full_output = "```\n" + grid + summary + "```\n"
 
 # === UPDATE README.md ===
