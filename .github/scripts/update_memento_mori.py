@@ -50,10 +50,11 @@ summary = (
     f"Tests: {total_weeks}, Assertions: {total_weeks}, Skipped: {weeks_skipped}.\n"
 )
 
-grid += summary
+# Wrap the entire block in triple backticks for markdown formatting
+full_output = "```\n" + grid + summary + "```\n"
 
 # === UPDATE README.md ===
-with open("README.md", "r") as f:
+with open("README.md", "r", encoding="utf-8") as f:
     lines = f.readlines()
 
 start_marker = "<!-- MM_START -->"
@@ -64,7 +65,7 @@ inside = False
 for line in lines:
     if start_marker in line:
         new_lines.append(start_marker + "\n")
-        new_lines.append(grid + "\n")
+        new_lines.append(full_output)
         inside = True
     elif end_marker in line:
         new_lines.append(end_marker + "\n")
@@ -72,5 +73,5 @@ for line in lines:
     elif not inside:
         new_lines.append(line)
 
-with open("README.md", "w") as f:
+with open("README.md", "w", encoding="utf-8") as f:
     f.writelines(new_lines)
