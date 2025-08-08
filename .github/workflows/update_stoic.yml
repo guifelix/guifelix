@@ -1,4 +1,4 @@
-name: Update Memento Mori README
+name: Update Stoic README
 
 on:
   schedule:
@@ -29,6 +29,9 @@ jobs:
 
       - name: Run Memento Mori script
         run: python .github/scripts/update_memento_mori.py
+
+      - name: Run Quote script
+        run: python .github/scripts/update_quote.py
 
       - name: Commit and push changes
         run: |

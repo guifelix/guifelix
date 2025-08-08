@@ -16,7 +16,9 @@
 
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api/?username=guifelix&hide=B&combine_all_yearly_contributions=true&hide_contributor_rank=false&limit=5&test=true)
 
-## 🕯️ Memento Mori Countdown
+## 🕯️ Memento Mori
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://gist.githubusercontent.com/guifelix/6ab8722983fff5c7312bb245f54a91d7/raw/quotes.json)
 
 <!-- MM_START -->
 ```
