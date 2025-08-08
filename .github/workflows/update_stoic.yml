@@ -32,6 +32,9 @@ jobs:
 
       - name: Run Quote script
         run: python .github/scripts/update_quote.py
+        env:
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GITHUB_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
 
       - name: Commit and push changes
         run: |
