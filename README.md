@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifelix&layout=compact)
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api/?username=guifelix&hide=B&combine_all_yearly_contributions=true&hide_contributor_rank=false&limit=5&test=true)
+[![Contributor Stats](https://github-contributor-stats.vercel.app/api/?username=guifelix&hide=B&combine_all_yearly_contributions=true&hide_contributor_rank=false&limit=5&test=true)](https://opendor.me/@guifelix)
 
 ## 🕯️ Memento Mori
 
