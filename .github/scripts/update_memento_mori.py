@@ -12,7 +12,6 @@ today = datetime.date.today()
 start_year = birth_date.year
 
 output = []
-output.append("Pest v2.8.14 by Nuno Maduro\n\n")
 
 total_tests = life_expectancy_years * weeks_per_year
 total_lived = 0
@@ -67,7 +66,6 @@ summary = (
     f"Passes: {total_lived}\n"
     f"Skips: {total_skipped}\n"
     f"Time: {time_lived_str}\n"
-    f"Memory: 0.10 MB\n"
 )
 
 output.append(summary)
