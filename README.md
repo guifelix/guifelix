@@ -4,7 +4,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=guifelix)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermefelixmaciel/)
-![Website](https://img.shields.io/badge/My%20Website-1ca0f1?style=flat-square&link=https%3A%2F%2Fguilhermefelixmaciel.netlify.app%2F)
+[![Website](https://img.shields.io/badge/My%20Website-1ca0f1?style=flat-square&link=https%3A%2F%2Fguilhermefelixmaciel.netlify.app%2F)](https://guilhermefelixmaciel.netlify.app/)
 
 
 
