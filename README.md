@@ -17,7 +17,7 @@
 
 ## 🕯️ Memento Mori
 
-![Quote](https://github-readme-qucotes-bay.vercel.app/quote?quotesUrl=https://gist.githubusercontent.com/guifelix/6ab8722983fff5c7312bb245f54a91d7/raw/quotes.json)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://gist.githubusercontent.com/guifelix/6ab8722983fff5c7312bb245f54a91d7/raw/quotes.json)
 
 <!-- MM_START -->
 ```
