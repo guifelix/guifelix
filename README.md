@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Felix</h1>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&repeat=false&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Software+Engineering+Manager+and;Tech+Leader+in+SaaS+Solutions;Building+Teams+that+Drive+Business+Impact.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=150&repeat=false&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Fullstack+Software+Engineer+and;Tech+Leader+in+SaaS+Solutions;Building+Solutions+%26+teams+that+drive+business+impact.)](https://git.io/typing-svg)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=guifelix)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermefelixmaciel/)
